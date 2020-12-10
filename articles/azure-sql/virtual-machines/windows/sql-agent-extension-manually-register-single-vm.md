@@ -52,7 +52,7 @@ To register your SQL Server VM with the SQL IaaS Agent extension, you must first
 
 1. Open the Azure portal and go to **All Services**. 
 1. Go to **Subscriptions** and select the subscription of interest.  
-1. On the **Subscriptions** page, go to **extensions**. 
+1. On the **Subscriptions** page, under the settings section in the left pane, click Resource providers. 
 1. Enter **sql** in the filter to bring up the SQL-related extensions. 
 1. Select **Register**, **Re-register**, or **Unregister** for the  **Microsoft.SqlVirtualMachine** provider, depending on your desired action. 
 
